@@ -361,7 +361,7 @@ void level_2(){
       }
     }
   }
-  // going up
+
   if (xPos > 65 && xPos < 125 && yPos < 55 && yPos > 45) {
     if (keyPressed) {
       if (key == ' ') {
